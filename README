@@ -1,0 +1,7 @@
+Copy cron.sh and init.sh to /home/pi/
+
+1. run cron.sh once
+	- this setups the timed aquisition of measurements
+2. add init.sh to /etc/rc.local 
+	- this setups the i2c-sensors
+	
